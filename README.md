@@ -1,9 +1,11 @@
-# NEMComments
+## NEMComments
 网易云音乐用户评论查询
 
+## 使用
 请手动查询用户User ID， 输入后将查询该用户播放前100的歌曲下的本人评论。
 ![image](https://github.com/MillerDix/NEMComments/blob/master/UserID.png)
 
+## 测试环境 python-2.7.10
 
 ## 加密算法来自网络: 
 
