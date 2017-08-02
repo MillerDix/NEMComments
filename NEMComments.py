@@ -1,3 +1,5 @@
+#!usr/bin/env python
+# --coding:utf-8--
 # @Author: MillerD
 # @Date:   2016-09-07T15:35:52+08:00
 # @Last modified by:   MillerD
